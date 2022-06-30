@@ -1,4 +1,6 @@
-개발자 티셔츠 쇼핑몰 오픈소스짱
+**This is a Test Repository for  GIT, Github, and Sourcetree**
+
+개발자 티셔츠 쇼핑몰 오픈소스
 
 개발자 목록
 1. 고양이
