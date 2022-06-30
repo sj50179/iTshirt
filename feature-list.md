@@ -3,3 +3,5 @@
 2. Purchase t-shirt(s)
 3. Delete t-shirt(s)
 4. 장바구니 담기
+5. Show detail-page.md
+
